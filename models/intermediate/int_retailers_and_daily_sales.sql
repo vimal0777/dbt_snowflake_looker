@@ -10,6 +10,7 @@ with
             retailer_code,
             product_number,
             order_method_code,
+            date_,
             to_char(date_::date, 'YYYY-Mon-DD') as ordered_date,
             year(date_) as ordered_year,
             concat('Q', '', quarter(date_)) as financialquarter,
