@@ -16,7 +16,7 @@ fin_qu AS (
     product,
     ordered_year,
     financialquarter,
-    SUM(quantity_sold)
+    SUM(quantity_sold) AS total_quantity_sold
 FROM
     sales_with_year_quarter
 GROUP BY 
