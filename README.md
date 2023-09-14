@@ -1,13 +1,7 @@
 ## Fivetran Snowflake DBT Looker Deployment
 
-<center><img src="snowflake_dbt_Looker.png" width="900" height ="240"/></center>
+<img src="snowflake_dbt_Looker.png" width="900" height ="240"/>
 
-
-### Snowflake
-
-
-
-### DBT
 
 
 
