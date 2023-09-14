@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+### Snowflake DBT Looker
 
 ### Using the starter project
 
