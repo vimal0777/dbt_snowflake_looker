@@ -18,3 +18,5 @@
 ### Looker:
 - Modelled and Structured data is integrated into Looker for Analysis.
 - Product Analysis [click_here](https://lookerstudio.google.com/reporting/df93d4f9-ef3e-45fe-86a5-470c69b697e0) in Looker.
+- <a href="http://stackoverflow.com](https://lookerstudio.google.com/reporting/df93d4f9-ef3e-45fe-86a5-470c69b697e0)https://lookerstudio.google.com/reporting/df93d4f9-ef3e-45fe-86a5-470c69b697e0" target="_blank">Go</a>
+
