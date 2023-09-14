@@ -1,6 +1,6 @@
 ## Snowflake DBT Looker Deployment
 
-<img src="snowflake_dbt_Looker.png" width="128"/>
+<img src="snowflake_dbt_Looker.png" width="1280"/>
 
 
 ### Snowflake
