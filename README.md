@@ -17,7 +17,7 @@
 
 ### Looker:
 - Modelled and Structured data is integrated into Looker for Analysis.
-- 3 Years Real-time Product Analysis [click_here](https://lookerstudio.google.com/reporting/df93d4f9-ef3e-45fe-86a5-470c69b697e0) in Looker.
+- Real-time Product Analysis [click_here](https://lookerstudio.google.com/reporting/df93d4f9-ef3e-45fe-86a5-470c69b697e0) in Looker.
   <img src="Looker.png" width="1080"/>
   
 
