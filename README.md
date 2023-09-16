@@ -12,8 +12,8 @@
 
 
 ### DBT
-- Transformed raw data to structured data in Snowflake Data warehouse.
-- Modelling Data in Snowflake Ready for Analysis
+- Transformed raw data to structured data ready for Analysis in Snowflake Data warehouse.
+
   <img src="dbt_DAG.png" width="1080"/>
 
 ### Looker:
