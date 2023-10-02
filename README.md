@@ -1,4 +1,4 @@
-## Fivetran Snowflake DBT Looker Deployment.
+## Fivetran Snowflake DBT Looker ( Real Time End-to-End Data stack Deployment Video Coming Soon).
 
 <img src="snowflake_dbt_Looker.png" width="1080"/>
 
