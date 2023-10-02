@@ -1,7 +1,7 @@
-## Fivetran Snowflake DBT Looker ( Real Time End-to-End Data stack Deployment Video Coming Soon).
+## Fivetran Snowflake DBT Looker .
 
 <img src="snowflake_dbt_Looker.png" width="1080"/>
-
+## Real-Time End-to-End Data stack Deployment Video Coming Soon.....
 ### Fivetran
 - Data Extraction Tool
 - Source: Postgresql
